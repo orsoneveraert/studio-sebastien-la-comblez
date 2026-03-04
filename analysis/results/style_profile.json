@@ -1,0 +1,3794 @@
+{
+  "generated_at_utc": "2026-03-04T12:13:45.132948+00:00",
+  "corpus": {
+    "pdf_count": 97,
+    "document_count_used": 66,
+    "document_count_excluded": 31,
+    "total_words": 3486549,
+    "unique_words": 114773,
+    "lexical_richness_ttr": 0.0329,
+    "hapax_count": 49758,
+    "hapax_ratio": 0.4335
+  },
+  "sentence_length": {
+    "mean": 25.3,
+    "median": 22,
+    "p10": 6.0,
+    "p25": 12.0,
+    "p75": 33.0,
+    "p90": 48.0
+  },
+  "punctuation_per_1000_words": {
+    ".": 48.67,
+    ",": 89.28,
+    ":": 5.74,
+    "?": 1.88,
+    ";": 1.16,
+    "!": 0.38
+  },
+  "top_content_words": [
+    {
+      "token": "art",
+      "count": 15915
+    },
+    {
+      "token": "exposition",
+      "count": 9898
+    },
+    {
+      "token": "artiste",
+      "count": 8131
+    },
+    {
+      "token": "artistes",
+      "count": 7699
+    },
+    {
+      "token": "œuvre",
+      "count": 5790
+    },
+    {
+      "token": "travail",
+      "count": 5672
+    },
+    {
+      "token": "œuvres",
+      "count": 5459
+    },
+    {
+      "token": "espace",
+      "count": 5331
+    },
+    {
+      "token": "monde",
+      "count": 4626
+    },
+    {
+      "token": "images",
+      "count": 4432
+    },
+    {
+      "token": "histoire",
+      "count": 4079
+    },
+    {
+      "token": "image",
+      "count": 3864
+    },
+    {
+      "token": "projet",
+      "count": 3842
+    },
+    {
+      "token": "années",
+      "count": 3405
+    },
+    {
+      "token": "forme",
+      "count": 3361
+    },
+    {
+      "token": "artistique",
+      "count": 3098
+    },
+    {
+      "token": "corps",
+      "count": 3057
+    },
+    {
+      "token": "arts",
+      "count": 2973
+    },
+    {
+      "token": "lieu",
+      "count": 2922
+    },
+    {
+      "token": "vie",
+      "count": 2624
+    },
+    {
+      "token": "musée",
+      "count": 2597
+    },
+    {
+      "token": "création",
+      "count": 2583
+    },
+    {
+      "token": "sens",
+      "count": 2539
+    },
+    {
+      "token": "centre",
+      "count": 2516
+    },
+    {
+      "token": "contemporain",
+      "count": 2513
+    },
+    {
+      "token": "livre",
+      "count": 2438
+    },
+    {
+      "token": "travers",
+      "count": 2381
+    },
+    {
+      "token": "installation",
+      "count": 2366
+    },
+    {
+      "token": "formes",
+      "count": 2291
+    },
+    {
+      "token": "photographie",
+      "count": 2284
+    },
+    {
+      "token": "architecture",
+      "count": 2263
+    },
+    {
+      "token": "film",
+      "count": 2217
+    },
+    {
+      "token": "cadre",
+      "count": 2183
+    },
+    {
+      "token": "public",
+      "count": 2181
+    },
+    {
+      "token": "critique",
+      "count": 2171
+    },
+    {
+      "token": "biennale",
+      "count": 2167
+    },
+    {
+      "token": "collection",
+      "count": 2144
+    },
+    {
+      "token": "peinture",
+      "count": 2134
+    },
+    {
+      "token": "ensemble",
+      "count": 2117
+    },
+    {
+      "token": "recherche",
+      "count": 2092
+    },
+    {
+      "token": "culture",
+      "count": 2045
+    },
+    {
+      "token": "cinéma",
+      "count": 2041
+    },
+    {
+      "token": "série",
+      "count": 2033
+    },
+    {
+      "token": "regard",
+      "count": 2004
+    },
+    {
+      "token": "pratique",
+      "count": 1999
+    },
+    {
+      "token": "mise",
+      "count": 1996
+    },
+    {
+      "token": "objet",
+      "count": 1985
+    },
+    {
+      "token": "scène",
+      "count": 1966
+    },
+    {
+      "token": "ville",
+      "count": 1881
+    },
+    {
+      "token": "objets",
+      "count": 1877
+    },
+    {
+      "token": "politique",
+      "count": 1854
+    },
+    {
+      "token": "vidéo",
+      "count": 1828
+    },
+    {
+      "token": "pratiques",
+      "count": 1723
+    },
+    {
+      "token": "production",
+      "count": 1712
+    },
+    {
+      "token": "texte",
+      "count": 1710
+    },
+    {
+      "token": "après",
+      "count": 1704
+    },
+    {
+      "token": "expérience",
+      "count": 1699
+    },
+    {
+      "token": "ailleurs",
+      "count": 1698
+    },
+    {
+      "token": "souvent",
+      "count": 1694
+    },
+    {
+      "token": "vers",
+      "count": 1650
+    },
+    {
+      "token": "autour",
+      "count": 1609
+    },
+    {
+      "token": "esthétique",
+      "count": 1604
+    },
+    {
+      "token": "galerie",
+      "count": 1598
+    },
+    {
+      "token": "rapport",
+      "count": 1597
+    },
+    {
+      "token": "expositions",
+      "count": 1595
+    },
+    {
+      "token": "partir",
+      "count": 1575
+    },
+    {
+      "token": "van",
+      "count": 1557
+    },
+    {
+      "token": "selon",
+      "count": 1549
+    },
+    {
+      "token": "effet",
+      "count": 1528
+    },
+    {
+      "token": "processus",
+      "count": 1522
+    },
+    {
+      "token": "mouvement",
+      "count": 1507
+    },
+    {
+      "token": "belgique",
+      "count": 1504
+    },
+    {
+      "token": "plusieurs",
+      "count": 1502
+    },
+    {
+      "token": "notamment",
+      "count": 1496
+    },
+    {
+      "token": "quelques",
+      "count": 1494
+    },
+    {
+      "token": "nouvelle",
+      "count": 1488
+    },
+    {
+      "token": "euros",
+      "count": 1480
+    },
+    {
+      "token": "partie",
+      "count": 1466
+    },
+    {
+      "token": "agit",
+      "count": 1462
+    },
+    {
+      "token": "propre",
+      "count": 1460
+    },
+    {
+      "token": "lieux",
+      "count": 1456
+    },
+    {
+      "token": "artistiques",
+      "count": 1454
+    },
+    {
+      "token": "nature",
+      "count": 1442
+    },
+    {
+      "token": "performance",
+      "count": 1428
+    },
+    {
+      "token": "chez",
+      "count": 1420
+    },
+    {
+      "token": "réel",
+      "count": 1418
+    },
+    {
+      "token": "quelque",
+      "count": 1415
+    },
+    {
+      "token": "déjà",
+      "count": 1393
+    },
+    {
+      "token": "idée",
+      "count": 1389
+    },
+    {
+      "token": "parfois",
+      "count": 1382
+    },
+    {
+      "token": "façon",
+      "count": 1378
+    },
+    {
+      "token": "pierre",
+      "count": 1373
+    },
+    {
+      "token": "contexte",
+      "count": 1372
+    },
+    {
+      "token": "pensée",
+      "count": 1361
+    },
+    {
+      "token": "photographies",
+      "count": 1357
+    },
+    {
+      "token": "sein",
+      "count": 1354
+    },
+    {
+      "token": "grande",
+      "count": 1354
+    },
+    {
+      "token": "réalité",
+      "count": 1349
+    },
+    {
+      "token": "plutôt",
+      "count": 1345
+    },
+    {
+      "token": "auteur",
+      "count": 1342
+    },
+    {
+      "token": "grand",
+      "count": 1340
+    },
+    {
+      "token": "champ",
+      "count": 1336
+    },
+    {
+      "token": "textes",
+      "count": 1336
+    },
+    {
+      "token": "projets",
+      "count": 1329
+    },
+    {
+      "token": "spectateur",
+      "count": 1319
+    },
+    {
+      "token": "face",
+      "count": 1303
+    },
+    {
+      "token": "chose",
+      "count": 1295
+    },
+    {
+      "token": "nouveau",
+      "count": 1287
+    },
+    {
+      "token": "laquelle",
+      "count": 1284
+    },
+    {
+      "token": "exemple",
+      "count": 1256
+    },
+    {
+      "token": "espaces",
+      "count": 1256
+    },
+    {
+      "token": "siècle",
+      "count": 1244
+    },
+    {
+      "token": "présente",
+      "count": 1217
+    },
+    {
+      "token": "collectif",
+      "count": 1210
+    },
+    {
+      "token": "fin",
+      "count": 1208
+    },
+    {
+      "token": "rien",
+      "count": 1197
+    },
+    {
+      "token": "atelier",
+      "count": 1195
+    },
+    {
+      "token": "présence",
+      "count": 1193
+    },
+    {
+      "token": "lumière",
+      "count": 1192
+    },
+    {
+      "token": "sujet",
+      "count": 1186
+    },
+    {
+      "token": "matière",
+      "count": 1181
+    },
+    {
+      "token": "jeu",
+      "count": 1174
+    },
+    {
+      "token": "semble",
+      "count": 1171
+    },
+    {
+      "token": "plastiques",
+      "count": 1165
+    },
+    {
+      "token": "éléments",
+      "count": 1161
+    },
+    {
+      "token": "société",
+      "count": 1140
+    },
+    {
+      "token": "différents",
+      "count": 1136
+    },
+    {
+      "token": "sculpture",
+      "count": 1126
+    },
+    {
+      "token": "dessins",
+      "count": 1124
+    },
+    {
+      "token": "côté",
+      "count": 1116
+    },
+    {
+      "token": "occasion",
+      "count": 1115
+    },
+    {
+      "token": "sorte",
+      "count": 1110
+    },
+    {
+      "token": "langage",
+      "count": 1109
+    },
+    {
+      "token": "cours",
+      "count": 1107
+    },
+    {
+      "token": "belge",
+      "count": 1105
+    },
+    {
+      "token": "propos",
+      "count": 1099
+    },
+    {
+      "token": "année",
+      "count": 1098
+    },
+    {
+      "token": "michel",
+      "count": 1091
+    },
+    {
+      "token": "moment",
+      "count": 1088
+    },
+    {
+      "token": "écriture",
+      "count": 1088
+    },
+    {
+      "token": "rencontre",
+      "count": 1087
+    },
+    {
+      "token": "cas",
+      "count": 1086
+    },
+    {
+      "token": "lequel",
+      "count": 1083
+    },
+    {
+      "token": "éditions",
+      "count": 1082
+    },
+    {
+      "token": "relation",
+      "count": 1082
+    },
+    {
+      "token": "films",
+      "count": 1078
+    },
+    {
+      "token": "commissariat",
+      "count": 1073
+    },
+    {
+      "token": "archives",
+      "count": 1071
+    },
+    {
+      "token": "dernier",
+      "count": 1070
+    },
+    {
+      "token": "paysage",
+      "count": 1066
+    },
+    {
+      "token": "voix",
+      "count": 1056
+    },
+    {
+      "token": "papier",
+      "count": 1056
+    },
+    {
+      "token": "permet",
+      "count": 1055
+    },
+    {
+      "token": "propose",
+      "count": 1055
+    },
+    {
+      "token": "mémoire",
+      "count": 1054
+    },
+    {
+      "token": "dit",
+      "count": 1051
+    },
+    {
+      "token": "ouvrage",
+      "count": 1049
+    },
+    {
+      "token": "couleur",
+      "count": 1047
+    },
+    {
+      "token": "parcours",
+      "count": 1027
+    },
+    {
+      "token": "puis",
+      "count": 1021
+    },
+    {
+      "token": "homme",
+      "count": 1019
+    },
+    {
+      "token": "mots",
+      "count": 1017
+    },
+    {
+      "token": "présent",
+      "count": 1014
+    },
+    {
+      "token": "réflexion",
+      "count": 1008
+    },
+    {
+      "token": "dire",
+      "count": 1006
+    },
+    {
+      "token": "dimension",
+      "count": 1004
+    },
+    {
+      "token": "rue",
+      "count": 1000
+    },
+    {
+      "token": "pouvoir",
+      "count": 1000
+    },
+    {
+      "token": "questions",
+      "count": 994
+    },
+    {
+      "token": "compte",
+      "count": 994
+    },
+    {
+      "token": "cœur",
+      "count": 994
+    },
+    {
+      "token": "fut",
+      "count": 991
+    },
+    {
+      "token": "pièces",
+      "count": 988
+    },
+    {
+      "token": "représentation",
+      "count": 982
+    },
+    {
+      "token": "différentes",
+      "count": 981
+    },
+    {
+      "token": "voire",
+      "count": 978
+    },
+    {
+      "token": "pourtant",
+      "count": 971
+    },
+    {
+      "token": "choix",
+      "count": 959
+    },
+    {
+      "token": "travaux",
+      "count": 955
+    },
+    {
+      "token": "liège",
+      "count": 953
+    },
+    {
+      "token": "dessin",
+      "count": 951
+    },
+    {
+      "token": "maison",
+      "count": 951
+    },
+    {
+      "token": "jacques",
+      "count": 949
+    },
+    {
+      "token": "état",
+      "count": 947
+    },
+    {
+      "token": "pays",
+      "count": 942
+    },
+    {
+      "token": "jour",
+      "count": 938
+    },
+    {
+      "token": "choses",
+      "count": 937
+    },
+    {
+      "token": "festival",
+      "count": 934
+    },
+    {
+      "token": "chacun",
+      "count": 933
+    },
+    {
+      "token": "musique",
+      "count": 929
+    },
+    {
+      "token": "geste",
+      "count": 928
+    },
+    {
+      "token": "figure",
+      "count": 915
+    },
+    {
+      "token": "passé",
+      "count": 913
+    },
+    {
+      "token": "faut",
+      "count": 912
+    },
+    {
+      "token": "communauté",
+      "count": 910
+    },
+    {
+      "token": "beaucoup",
+      "count": 909
+    },
+    {
+      "token": "notion",
+      "count": 902
+    },
+    {
+      "token": "culturel",
+      "count": 894
+    },
+    {
+      "token": "contemporaine",
+      "count": 893
+    },
+    {
+      "token": "quant",
+      "count": 892
+    },
+    {
+      "token": "époque",
+      "count": 892
+    },
+    {
+      "token": "surtout",
+      "count": 886
+    },
+    {
+      "token": "catalogue",
+      "count": 885
+    },
+    {
+      "token": "approche",
+      "count": 883
+    },
+    {
+      "token": "trop",
+      "count": 881
+    },
+    {
+      "token": "sonore",
+      "count": 880
+    },
+    {
+      "token": "pourrait",
+      "count": 879
+    },
+    {
+      "token": "politiques",
+      "count": 878
+    },
+    {
+      "token": "jeunes",
+      "count": 877
+    },
+    {
+      "token": "pièce",
+      "count": 877
+    },
+    {
+      "token": "reste",
+      "count": 876
+    },
+    {
+      "token": "loin",
+      "count": 873
+    },
+    {
+      "token": "trouve",
+      "count": 873
+    },
+    {
+      "token": "terme",
+      "count": 871
+    },
+    {
+      "token": "photo",
+      "count": 870
+    },
+    {
+      "token": "collaboration",
+      "count": 870
+    },
+    {
+      "token": "donne",
+      "count": 870
+    },
+    {
+      "token": "peut-être",
+      "count": 869
+    },
+    {
+      "token": "démarche",
+      "count": 869
+    },
+    {
+      "token": "design",
+      "count": 868
+    },
+    {
+      "token": "penser",
+      "count": 868
+    },
+    {
+      "token": "savoir",
+      "count": 866
+    },
+    {
+      "token": "intramuros",
+      "count": 866
+    },
+    {
+      "token": "mettre",
+      "count": 865
+    },
+    {
+      "token": "fil",
+      "count": 860
+    },
+    {
+      "token": "lecture",
+      "count": 860
+    },
+    {
+      "token": "possible",
+      "count": 859
+    },
+    {
+      "token": "univers",
+      "count": 857
+    },
+    {
+      "token": "vision",
+      "count": 857
+    },
+    {
+      "token": "n'a",
+      "count": 854
+    },
+    {
+      "token": "terre",
+      "count": 854
+    },
+    {
+      "token": "jeune",
+      "count": 853
+    },
+    {
+      "token": "jusqu'à",
+      "count": 851
+    },
+    {
+      "token": "nombre",
+      "count": 851
+    },
+    {
+      "token": "abord",
+      "count": 848
+    },
+    {
+      "token": "récit",
+      "count": 848
+    },
+    {
+      "token": "force",
+      "count": 846
+    },
+    {
+      "token": "mode",
+      "count": 845
+    },
+    {
+      "token": "noir",
+      "count": 844
+    },
+    {
+      "token": "dispositif",
+      "count": 844
+    },
+    {
+      "token": "suite",
+      "count": 843
+    },
+    {
+      "token": "origine",
+      "count": 842
+    },
+    {
+      "token": "installations",
+      "count": 842
+    },
+    {
+      "token": "esprit",
+      "count": 839
+    },
+    {
+      "token": "créer",
+      "count": 836
+    },
+    {
+      "token": "parmi",
+      "count": 835
+    },
+    {
+      "token": "territoire",
+      "count": 830
+    },
+    {
+      "token": "devient",
+      "count": 828
+    },
+    {
+      "token": "action",
+      "count": 827
+    },
+    {
+      "token": "met",
+      "count": 824
+    },
+    {
+      "token": "théâtre",
+      "count": 822
+    },
+    {
+      "token": "enjeux",
+      "count": 819
+    },
+    {
+      "token": "france",
+      "count": 818
+    },
+    {
+      "token": "international",
+      "count": 816
+    },
+    {
+      "token": "prendre",
+      "count": 815
+    },
+    {
+      "token": "au-delà",
+      "count": 813
+    },
+    {
+      "token": "quatre",
+      "count": 805
+    },
+    {
+      "token": "attention",
+      "count": 803
+    },
+    {
+      "token": "lui-même",
+      "count": 802
+    },
+    {
+      "token": "ème",
+      "count": 802
+    },
+    {
+      "token": "long",
+      "count": 799
+    },
+    {
+      "token": "site",
+      "count": 794
+    },
+    {
+      "token": "bois",
+      "count": 794
+    },
+    {
+      "token": "résidence",
+      "count": 790
+    },
+    {
+      "token": "beaux-arts",
+      "count": 790
+    },
+    {
+      "token": "programme",
+      "count": 782
+    },
+    {
+      "token": "rôle",
+      "count": 781
+    },
+    {
+      "token": "discours",
+      "count": 779
+    },
+    {
+      "token": "sculptures",
+      "count": 778
+    },
+    {
+      "token": "française",
+      "count": 776
+    },
+    {
+      "token": "expression",
+      "count": 775
+    },
+    {
+      "token": "construction",
+      "count": 772
+    },
+    {
+      "token": "nouveaux",
+      "count": 767
+    },
+    {
+      "token": "ligne",
+      "count": 767
+    },
+    {
+      "token": "imaginaire",
+      "count": 767
+    },
+    {
+      "token": "faisant",
+      "count": 766
+    },
+    {
+      "token": "moderne",
+      "count": 765
+    },
+    {
+      "token": "photographique",
+      "count": 764
+    },
+    {
+      "token": "couleurs",
+      "count": 763
+    },
+    {
+      "token": "doute",
+      "count": 760
+    },
+    {
+      "token": "pavillon",
+      "count": 760
+    },
+    {
+      "token": "salle",
+      "count": 752
+    },
+    {
+      "token": "venise",
+      "count": 752
+    },
+    {
+      "token": "sélection",
+      "count": 749
+    },
+    {
+      "token": "collective",
+      "count": 747
+    },
+    {
+      "token": "prend",
+      "count": 744
+    },
+    {
+      "token": "tour",
+      "count": 743
+    },
+    {
+      "token": "produit",
+      "count": 743
+    },
+    {
+      "token": "personnes",
+      "count": 740
+    },
+    {
+      "token": "presque",
+      "count": 732
+    },
+    {
+      "token": "technique",
+      "count": 732
+    },
+    {
+      "token": "valeur",
+      "count": 732
+    },
+    {
+      "token": "danse",
+      "count": 730
+    },
+    {
+      "token": "plastique",
+      "count": 730
+    },
+    {
+      "token": "double",
+      "count": 729
+    },
+    {
+      "token": "historique",
+      "count": 728
+    },
+    {
+      "token": "dossier",
+      "count": 728
+    },
+    {
+      "token": "lien",
+      "count": 727
+    },
+    {
+      "token": "nom",
+      "count": 726
+    },
+    {
+      "token": "école",
+      "count": 726
+    }
+  ],
+  "top_words_including_stopwords": [
+    {
+      "token": "de",
+      "count": 209876
+    },
+    {
+      "token": "la",
+      "count": 111027
+    },
+    {
+      "token": "et",
+      "count": 101817
+    },
+    {
+      "token": "le",
+      "count": 73282
+    },
+    {
+      "token": "des",
+      "count": 63498
+    },
+    {
+      "token": "les",
+      "count": 58440
+    },
+    {
+      "token": "en",
+      "count": 53367
+    },
+    {
+      "token": "une",
+      "count": 52882
+    },
+    {
+      "token": "un",
+      "count": 50903
+    },
+    {
+      "token": "du",
+      "count": 46702
+    },
+    {
+      "token": "dans",
+      "count": 39790
+    },
+    {
+      "token": "est",
+      "count": 33875
+    },
+    {
+      "token": "qui",
+      "count": 33718
+    },
+    {
+      "token": "au",
+      "count": 28953
+    },
+    {
+      "token": "par",
+      "count": 26296
+    },
+    {
+      "token": "que",
+      "count": 25808
+    },
+    {
+      "token": "pour",
+      "count": 21268
+    },
+    {
+      "token": "sur",
+      "count": 20174
+    },
+    {
+      "token": "il",
+      "count": 18774
+    },
+    {
+      "token": "ce",
+      "count": 17990
+    },
+    {
+      "token": "se",
+      "count": 16543
+    },
+    {
+      "token": "ou",
+      "count": 16319
+    },
+    {
+      "token": "art",
+      "count": 15915
+    },
+    {
+      "token": "avec",
+      "count": 15095
+    },
+    {
+      "token": "comme",
+      "count": 13816
+    },
+    {
+      "token": "son",
+      "count": 13108
+    },
+    {
+      "token": "plus",
+      "count": 12281
+    },
+    {
+      "token": "cette",
+      "count": 11832
+    },
+    {
+      "token": "pas",
+      "count": 11313
+    },
+    {
+      "token": "exposition",
+      "count": 9898
+    },
+    {
+      "token": "mais",
+      "count": 9568
+    },
+    {
+      "token": "ne",
+      "count": 9515
+    },
+    {
+      "token": "on",
+      "count": 9427
+    },
+    {
+      "token": "aux",
+      "count": 9415
+    },
+    {
+      "token": "sa",
+      "count": 9278
+    },
+    {
+      "token": "nous",
+      "count": 8988
+    },
+    {
+      "token": "sont",
+      "count": 8955
+    },
+    {
+      "token": "ses",
+      "count": 8736
+    },
+    {
+      "token": "entre",
+      "count": 8229
+    },
+    {
+      "token": "artiste",
+      "count": 8131
+    },
+    {
+      "token": "ces",
+      "count": 8125
+    },
+    {
+      "token": "elle",
+      "count": 7881
+    },
+    {
+      "token": "artistes",
+      "count": 7699
+    },
+    {
+      "token": "aussi",
+      "count": 6902
+    },
+    {
+      "token": "tout",
+      "count": 6777
+    },
+    {
+      "token": "leur",
+      "count": 6623
+    },
+    {
+      "token": "même",
+      "count": 6351
+    },
+    {
+      "token": "œuvre",
+      "count": 5790
+    },
+    {
+      "token": "travail",
+      "count": 5672
+    },
+    {
+      "token": "dont",
+      "count": 5664
+    },
+    {
+      "token": "œuvres",
+      "count": 5459
+    },
+    {
+      "token": "fait",
+      "count": 5446
+    },
+    {
+      "token": "espace",
+      "count": 5331
+    },
+    {
+      "token": "où",
+      "count": 5277
+    },
+    {
+      "token": "sans",
+      "count": 5129
+    },
+    {
+      "token": "être",
+      "count": 4684
+    },
+    {
+      "token": "monde",
+      "count": 4626
+    },
+    {
+      "token": "deux",
+      "count": 4558
+    },
+    {
+      "token": "ont",
+      "count": 4503
+    },
+    {
+      "token": "ainsi",
+      "count": 4481
+    },
+    {
+      "token": "images",
+      "count": 4432
+    },
+    {
+      "token": "je",
+      "count": 4342
+    },
+    {
+      "token": "autre",
+      "count": 4323
+    },
+    {
+      "token": "autres",
+      "count": 4286
+    },
+    {
+      "token": "si",
+      "count": 4213
+    },
+    {
+      "token": "temps",
+      "count": 4197
+    },
+    {
+      "token": "bruxelles",
+      "count": 4177
+    },
+    {
+      "token": "histoire",
+      "count": 4079
+    },
+    {
+      "token": "bien",
+      "count": 4017
+    },
+    {
+      "token": "sous",
+      "count": 4014
+    },
+    {
+      "token": "image",
+      "count": 3864
+    },
+    {
+      "token": "projet",
+      "count": 3842
+    },
+    {
+      "token": "été",
+      "count": 3722
+    },
+    {
+      "token": "the",
+      "count": 3672
+    },
+    {
+      "token": "encore",
+      "count": 3619
+    },
+    {
+      "token": "in",
+      "count": 3469
+    },
+    {
+      "token": "faire",
+      "count": 3443
+    },
+    {
+      "token": "années",
+      "count": 3405
+    },
+    {
+      "token": "forme",
+      "count": 3361
+    },
+    {
+      "token": "depuis",
+      "count": 3192
+    },
+    {
+      "token": "peut",
+      "count": 3143
+    },
+    {
+      "token": "non",
+      "count": 3142
+    },
+    {
+      "token": "artistique",
+      "count": 3098
+    },
+    {
+      "token": "corps",
+      "count": 3057
+    },
+    {
+      "token": "leurs",
+      "count": 3029
+    },
+    {
+      "token": "ils",
+      "count": 2989
+    },
+    {
+      "token": "arts",
+      "count": 2973
+    },
+    {
+      "token": "lieu",
+      "count": 2922
+    },
+    {
+      "token": "fois",
+      "count": 2842
+    },
+    {
+      "token": "ici",
+      "count": 2771
+    },
+    {
+      "token": "question",
+      "count": 2761
+    },
+    {
+      "token": "très",
+      "count": 2752
+    },
+    {
+      "token": "lui",
+      "count": 2715
+    },
+    {
+      "token": "notre",
+      "count": 2678
+    },
+    {
+      "token": "manière",
+      "count": 2659
+    },
+    {
+      "token": "jusqu'au",
+      "count": 2658
+    },
+    {
+      "token": "vie",
+      "count": 2624
+    },
+    {
+      "token": "musée",
+      "count": 2597
+    },
+    {
+      "token": "création",
+      "count": 2583
+    },
+    {
+      "token": "cet",
+      "count": 2567
+    },
+    {
+      "token": "sens",
+      "count": 2539
+    },
+    {
+      "token": "centre",
+      "count": 2516
+    },
+    {
+      "token": "contemporain",
+      "count": 2513
+    },
+    {
+      "token": "paris",
+      "count": 2466
+    },
+    {
+      "token": "elles",
+      "count": 2451
+    },
+    {
+      "token": "livre",
+      "count": 2438
+    },
+    {
+      "token": "voir",
+      "count": 2425
+    },
+    {
+      "token": "travers",
+      "count": 2381
+    },
+    {
+      "token": "installation",
+      "count": 2366
+    },
+    {
+      "token": "of",
+      "count": 2356
+    },
+    {
+      "token": "tant",
+      "count": 2343
+    },
+    {
+      "token": "toute",
+      "count": 2339
+    },
+    {
+      "token": "autant",
+      "count": 2339
+    },
+    {
+      "token": "place",
+      "count": 2301
+    },
+    {
+      "token": "tous",
+      "count": 2297
+    },
+    {
+      "token": "formes",
+      "count": 2291
+    },
+    {
+      "token": "photographie",
+      "count": 2284
+    },
+    {
+      "token": "alors",
+      "count": 2284
+    },
+    {
+      "token": "architecture",
+      "count": 2263
+    },
+    {
+      "token": "film",
+      "count": 2217
+    }
+  ],
+  "top_content_bigrams": [
+    {
+      "ngram": [
+        "art",
+        "contemporain"
+      ],
+      "count": 1903
+    },
+    {
+      "ngram": [
+        "arts",
+        "plastiques"
+      ],
+      "count": 817
+    },
+    {
+      "ngram": [
+        "quelque",
+        "chose"
+      ],
+      "count": 765
+    },
+    {
+      "ngram": [
+        "histoire",
+        "art"
+      ],
+      "count": 728
+    },
+    {
+      "ngram": [
+        "œuvre",
+        "art"
+      ],
+      "count": 432
+    },
+    {
+      "ngram": [
+        "espace",
+        "public"
+      ],
+      "count": 425
+    },
+    {
+      "ngram": [
+        "centre",
+        "art"
+      ],
+      "count": 391
+    },
+    {
+      "ngram": [
+        "monde",
+        "art"
+      ],
+      "count": 383
+    },
+    {
+      "ngram": [
+        "critique",
+        "art"
+      ],
+      "count": 349
+    },
+    {
+      "ngram": [
+        "biennale",
+        "venise"
+      ],
+      "count": 332
+    },
+    {
+      "ngram": [
+        "pratiques",
+        "artistiques"
+      ],
+      "count": 327
+    },
+    {
+      "ngram": [
+        "noir",
+        "blanc"
+      ],
+      "count": 318
+    },
+    {
+      "ngram": [
+        "œuvres",
+        "art"
+      ],
+      "count": 306
+    },
+    {
+      "ngram": [
+        "musée",
+        "art"
+      ],
+      "count": 305
+    },
+    {
+      "ngram": [
+        "arts",
+        "visuels"
+      ],
+      "count": 300
+    },
+    {
+      "ngram": [
+        "art",
+        "moderne"
+      ],
+      "count": 295
+    },
+    {
+      "ngram": [
+        "mise",
+        "scène"
+      ],
+      "count": 295
+    },
+    {
+      "ngram": [
+        "espace",
+        "exposition"
+      ],
+      "count": 290
+    },
+    {
+      "ngram": [
+        "jeunes",
+        "artistes"
+      ],
+      "count": 285
+    },
+    {
+      "ngram": [
+        "centre",
+        "culturel"
+      ],
+      "count": 255
+    },
+    {
+      "ngram": [
+        "palais",
+        "beaux-arts"
+      ],
+      "count": 249
+    },
+    {
+      "ngram": [
+        "marcel",
+        "broodthaers"
+      ],
+      "count": 245
+    },
+    {
+      "ngram": [
+        "centre",
+        "pompidou"
+      ],
+      "count": 238
+    },
+    {
+      "ngram": [
+        "pratique",
+        "artistique"
+      ],
+      "count": 229
+    },
+    {
+      "ngram": [
+        "dernières",
+        "années"
+      ],
+      "count": 227
+    },
+    {
+      "ngram": [
+        "art",
+        "conceptuel"
+      ],
+      "count": 224
+    },
+    {
+      "ngram": [
+        "van",
+        "der"
+      ],
+      "count": 222
+    },
+    {
+      "ngram": [
+        "exposition",
+        "collective"
+      ],
+      "count": 221
+    },
+    {
+      "ngram": [
+        "début",
+        "années"
+      ],
+      "count": 219
+    },
+    {
+      "ngram": [
+        "fin",
+        "années"
+      ],
+      "count": 217
+    },
+    {
+      "ngram": [
+        "création",
+        "artistique"
+      ],
+      "count": 207
+    },
+    {
+      "ngram": [
+        "quelque",
+        "sorte"
+      ],
+      "count": 204
+    },
+    {
+      "ngram": [
+        "quelques",
+        "années"
+      ],
+      "count": 195
+    },
+    {
+      "ngram": [
+        "scène",
+        "artistique"
+      ],
+      "count": 193
+    },
+    {
+      "ngram": [
+        "laurent",
+        "courtens"
+      ],
+      "count": 190
+    },
+    {
+      "ngram": [
+        "champ",
+        "art"
+      ],
+      "count": 187
+    },
+    {
+      "ngram": [
+        "création",
+        "contemporaine"
+      ],
+      "count": 184
+    },
+    {
+      "ngram": [
+        "installation",
+        "vidéo"
+      ],
+      "count": 181
+    },
+    {
+      "ngram": [
+        "ème",
+        "siècle"
+      ],
+      "count": 176
+    },
+    {
+      "ngram": [
+        "jacques",
+        "charlier"
+      ],
+      "count": 173
+    },
+    {
+      "ngram": [
+        "historien",
+        "art"
+      ],
+      "count": 169
+    },
+    {
+      "ngram": [
+        "commissaire",
+        "exposition"
+      ],
+      "count": 169
+    },
+    {
+      "ngram": [
+        "artistes",
+        "belges"
+      ],
+      "count": 168
+    },
+    {
+      "ngram": [
+        "christine",
+        "jamart"
+      ],
+      "count": 167
+    },
+    {
+      "ngram": [
+        "plusieurs",
+        "années"
+      ],
+      "count": 167
+    },
+    {
+      "ngram": [
+        "lettre",
+        "volée"
+      ],
+      "count": 162
+    },
+    {
+      "ngram": [
+        "rendre",
+        "compte"
+      ],
+      "count": 161
+    },
+    {
+      "ngram": [
+        "œuvres",
+        "artistes"
+      ],
+      "count": 160
+    },
+    {
+      "ngram": [
+        "écoles",
+        "art"
+      ],
+      "count": 158
+    },
+    {
+      "ngram": [
+        "walter",
+        "benjamin"
+      ],
+      "count": 157
+    },
+    {
+      "ngram": [
+        "xxe",
+        "siècle"
+      ],
+      "count": 155
+    },
+    {
+      "ngram": [
+        "maïté",
+        "vissault"
+      ],
+      "count": 154
+    },
+    {
+      "ngram": [
+        "ve",
+        "di"
+      ],
+      "count": 153
+    },
+    {
+      "ngram": [
+        "mise",
+        "œuvre"
+      ],
+      "count": 153
+    },
+    {
+      "ngram": [
+        "emmanuel",
+        "autreppe"
+      ],
+      "count": 152
+    },
+    {
+      "ngram": [
+        "ème",
+        "biennale"
+      ],
+      "count": 152
+    },
+    {
+      "ngram": [
+        "marché",
+        "art"
+      ],
+      "count": 150
+    },
+    {
+      "ngram": [
+        "contemporary",
+        "art"
+      ],
+      "count": 150
+    },
+    {
+      "ngram": [
+        "art",
+        "actuel"
+      ],
+      "count": 147
+    },
+    {
+      "ngram": [
+        "sandra",
+        "caltagirone"
+      ],
+      "count": 146
+    },
+    {
+      "ngram": [
+        "tiré",
+        "exemplaires"
+      ],
+      "count": 145
+    },
+    {
+      "ngram": [
+        "carte",
+        "blanche"
+      ],
+      "count": 144
+    },
+    {
+      "ngram": [
+        "catalogue",
+        "exposition"
+      ],
+      "count": 144
+    },
+    {
+      "ngram": [
+        "travail",
+        "artiste"
+      ],
+      "count": 143
+    },
+    {
+      "ngram": [
+        "michel",
+        "françois"
+      ],
+      "count": 143
+    },
+    {
+      "ngram": [
+        "cadre",
+        "exposition"
+      ],
+      "count": 143
+    },
+    {
+      "ngram": [
+        "yellow",
+        "now"
+      ],
+      "count": 142
+    },
+    {
+      "ngram": [
+        "daniel",
+        "buren"
+      ],
+      "count": 140
+    },
+    {
+      "ngram": [
+        "entretien",
+        "mené"
+      ],
+      "count": 140
+    },
+    {
+      "ngram": [
+        "xxème",
+        "siècle"
+      ],
+      "count": 140
+    },
+    {
+      "ngram": [
+        "tristan",
+        "trémeau"
+      ],
+      "count": 139
+    },
+    {
+      "ngram": [
+        "droit",
+        "auteur"
+      ],
+      "count": 139
+    },
+    {
+      "ngram": [
+        "art",
+        "brut"
+      ],
+      "count": 138
+    },
+    {
+      "ngram": [
+        "jeune",
+        "artiste"
+      ],
+      "count": 138
+    },
+    {
+      "ngram": [
+        "presses",
+        "réel"
+      ],
+      "count": 137
+    },
+    {
+      "ngram": [
+        "cartes",
+        "postales"
+      ],
+      "count": 136
+    },
+    {
+      "ngram": [
+        "joëlle",
+        "tuerlinckx"
+      ],
+      "count": 135
+    },
+    {
+      "ngram": [
+        "vie",
+        "quotidienne"
+      ],
+      "count": 135
+    },
+    {
+      "ngram": [
+        "exposition",
+        "personnelle"
+      ],
+      "count": 133
+    },
+    {
+      "ngram": [
+        "marcel",
+        "duchamp"
+      ],
+      "count": 133
+    }
+  ],
+  "top_content_trigrams": [
+    {
+      "ngram": [
+        "musée",
+        "art",
+        "moderne"
+      ],
+      "count": 140
+    },
+    {
+      "ngram": [
+        "centre",
+        "art",
+        "contemporain"
+      ],
+      "count": 119
+    },
+    {
+      "ngram": [
+        "ann",
+        "veronica",
+        "janssens"
+      ],
+      "count": 113
+    },
+    {
+      "ngram": [
+        "musée",
+        "art",
+        "contemporain"
+      ],
+      "count": 100
+    },
+    {
+      "ngram": [
+        "van",
+        "der",
+        "auwera"
+      ],
+      "count": 96
+    },
+    {
+      "ngram": [
+        "biennale",
+        "di",
+        "venezia"
+      ],
+      "count": 92
+    },
+    {
+      "ngram": [
+        "patrimoine",
+        "culturel",
+        "arts"
+      ],
+      "count": 88
+    },
+    {
+      "ngram": [
+        "culturel",
+        "arts",
+        "plastiques"
+      ],
+      "count": 88
+    },
+    {
+      "ngram": [
+        "académie",
+        "royale",
+        "beaux-arts"
+      ],
+      "count": 83
+    },
+    {
+      "ngram": [
+        "exhibition",
+        "biennale",
+        "di"
+      ],
+      "count": 72
+    },
+    {
+      "ngram": [
+        "seconde",
+        "guerre",
+        "mondiale"
+      ],
+      "count": 72
+    },
+    {
+      "ngram": [
+        "emmanuel",
+        "van",
+        "der"
+      ],
+      "count": 71
+    },
+    {
+      "ngram": [
+        "musée",
+        "photographie",
+        "charleroi"
+      ],
+      "count": 70
+    },
+    {
+      "ngram": [
+        "arts",
+        "plastiques",
+        "contemporains"
+      ],
+      "count": 65
+    },
+    {
+      "ngram": [
+        "service",
+        "arts",
+        "plastiques"
+      ],
+      "count": 63
+    },
+    {
+      "ngram": [
+        "for",
+        "contemporary",
+        "art"
+      ],
+      "count": 63
+    },
+    {
+      "ngram": [
+        "textes",
+        "publiés",
+        "engagent"
+      ],
+      "count": 63
+    },
+    {
+      "ngram": [
+        "champ",
+        "art",
+        "contemporain"
+      ],
+      "count": 60
+    },
+    {
+      "ngram": [
+        "art",
+        "textes",
+        "publiés"
+      ],
+      "count": 60
+    },
+    {
+      "ngram": [
+        "gravure",
+        "image",
+        "imprimée"
+      ],
+      "count": 59
+    },
+    {
+      "ngram": [
+        "art",
+        "moderne",
+        "contemporain"
+      ],
+      "count": 57
+    },
+    {
+      "ngram": [
+        "culture",
+        "service",
+        "général"
+      ],
+      "count": 56
+    },
+    {
+      "ngram": [
+        "arts",
+        "plastiques",
+        "danse"
+      ],
+      "count": 56
+    },
+    {
+      "ngram": [
+        "jours",
+        "sauf",
+        "lu"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "vocation",
+        "soutenir",
+        "littérature"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "soutenir",
+        "littérature",
+        "musique"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "littérature",
+        "musique",
+        "théâtre"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "musique",
+        "théâtre",
+        "cinéma"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "théâtre",
+        "cinéma",
+        "patrimoine"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "cinéma",
+        "patrimoine",
+        "culturel"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "plastiques",
+        "danse",
+        "éducation"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "danse",
+        "éducation",
+        "permanente"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "éducation",
+        "permanente",
+        "jeunes"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "permanente",
+        "jeunes",
+        "adultes"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "jeunes",
+        "adultes",
+        "favorise"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "adultes",
+        "favorise",
+        "formes"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "favorise",
+        "formes",
+        "activités"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "formes",
+        "activités",
+        "création"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "activités",
+        "création",
+        "expression"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "création",
+        "expression",
+        "diffusion"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "expression",
+        "diffusion",
+        "culture"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "partenaire",
+        "artistes",
+        "publics"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "artistes",
+        "publics",
+        "affirme"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "publics",
+        "affirme",
+        "identité"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "affirme",
+        "identité",
+        "culturelle"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "identité",
+        "culturelle",
+        "belges"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "culturelle",
+        "belges",
+        "francophones"
+      ],
+      "count": 55
+    },
+    {
+      "ngram": [
+        "wide",
+        "white",
+        "space"
+      ],
+      "count": 54
+    },
+    {
+      "ngram": [
+        "administration",
+        "générale",
+        "culture"
+      ],
+      "count": 54
+    },
+    {
+      "ngram": [
+        "générale",
+        "culture",
+        "service"
+      ],
+      "count": 52
+    },
+    {
+      "ngram": [
+        "école",
+        "nationale",
+        "supérieure"
+      ],
+      "count": 51
+    },
+    {
+      "ngram": [
+        "article",
+        "rubrique",
+        "intramuros"
+      ],
+      "count": 51
+    },
+    {
+      "ngram": [
+        "international",
+        "art",
+        "exhibition"
+      ],
+      "count": 49
+    },
+    {
+      "ngram": [
+        "tiré",
+        "exemplaires",
+        "euros"
+      ],
+      "count": 48
+    },
+    {
+      "ngram": [
+        "art",
+        "exhibition",
+        "biennale"
+      ],
+      "count": 48
+    },
+    {
+      "ngram": [
+        "th",
+        "international",
+        "art"
+      ],
+      "count": 48
+    },
+    {
+      "ngram": [
+        "direction",
+        "arts",
+        "plastiques"
+      ],
+      "count": 48
+    },
+    {
+      "ngram": [
+        "aldo",
+        "guillaume",
+        "turin"
+      ],
+      "count": 47
+    },
+    {
+      "ngram": [
+        "daniel",
+        "vander",
+        "gucht"
+      ],
+      "count": 47
+    },
+    {
+      "ngram": [
+        "illustrations",
+        "couleur",
+        "collection"
+      ],
+      "count": 47
+    },
+    {
+      "ngram": [
+        "jeune",
+        "peinture",
+        "belge"
+      ],
+      "count": 46
+    },
+    {
+      "ngram": [
+        "biennale",
+        "art",
+        "venise"
+      ],
+      "count": 46
+    },
+    {
+      "ngram": [
+        "musée",
+        "arts",
+        "contemporains"
+      ],
+      "count": 45
+    },
+    {
+      "ngram": [
+        "publiés",
+        "engagent",
+        "auteur"
+      ],
+      "count": 45
+    },
+    {
+      "ngram": [
+        "hans",
+        "ulrich",
+        "obrist"
+      ],
+      "count": 44
+    },
+    {
+      "ngram": [
+        "cinéma",
+        "art",
+        "contemporain"
+      ],
+      "count": 44
+    },
+    {
+      "ngram": [
+        "exemplaires",
+        "numérotés",
+        "signés"
+      ],
+      "count": 43
+    },
+    {
+      "ngram": [
+        "exemplaires",
+        "signés",
+        "numérotés"
+      ],
+      "count": 42
+    },
+    {
+      "ngram": [
+        "biennale",
+        "architecture",
+        "venise"
+      ],
+      "count": 41
+    },
+    {
+      "ngram": [
+        "artistes",
+        "belges",
+        "internationaux"
+      ],
+      "count": 41
+    },
+    {
+      "ngram": [
+        "toma",
+        "muteba",
+        "luntumbue"
+      ],
+      "count": 40
+    },
+    {
+      "ngram": [
+        "secteur",
+        "arts",
+        "plastiques"
+      ],
+      "count": 39
+    },
+    {
+      "ngram": [
+        "ème",
+        "biennale",
+        "venise"
+      ],
+      "count": 39
+    },
+    {
+      "ngram": [
+        "biennale",
+        "art",
+        "contemporain"
+      ],
+      "count": 38
+    },
+    {
+      "ngram": [
+        "dijon",
+        "presses",
+        "réel"
+      ],
+      "count": 38
+    },
+    {
+      "ngram": [
+        "national",
+        "arts",
+        "plastiques"
+      ],
+      "count": 38
+    },
+    {
+      "ngram": [
+        "pascale",
+        "marthine",
+        "tayou"
+      ],
+      "count": 37
+    },
+    {
+      "ngram": [
+        "musée",
+        "plein",
+        "air"
+      ],
+      "count": 37
+    },
+    {
+      "ngram": [
+        "coll",
+        "côté",
+        "photo"
+      ],
+      "count": 37
+    },
+    {
+      "ngram": [
+        "centre",
+        "national",
+        "arts"
+      ],
+      "count": 37
+    }
+  ],
+  "top_connecteurs": [
+    {
+      "phrase": "ainsi",
+      "count": 4481
+    },
+    {
+      "phrase": "notamment",
+      "count": 1495
+    },
+    {
+      "phrase": "en effet",
+      "count": 1038
+    },
+    {
+      "phrase": "voire",
+      "count": 978
+    },
+    {
+      "phrase": "or",
+      "count": 756
+    },
+    {
+      "phrase": "dès lors",
+      "count": 563
+    },
+    {
+      "phrase": "par ailleurs",
+      "count": 520
+    },
+    {
+      "phrase": "cependant",
+      "count": 518
+    },
+    {
+      "phrase": "au contraire",
+      "count": 392
+    },
+    {
+      "phrase": "néanmoins",
+      "count": 375
+    },
+    {
+      "phrase": "de fait",
+      "count": 235
+    },
+    {
+      "phrase": "en somme",
+      "count": 115
+    },
+    {
+      "phrase": "autrement dit",
+      "count": 114
+    },
+    {
+      "phrase": "en revanche",
+      "count": 79
+    }
+  ],
+  "documents": [
+    {
+      "issue": "32",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-32.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-32.txt",
+      "words": 32953,
+      "content_words": 19227,
+      "sentences": 1225,
+      "avg_sentence_len": 26.9,
+      "chars": 233875
+    },
+    {
+      "issue": "33",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-33.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-33.txt",
+      "words": 40357,
+      "content_words": 23417,
+      "sentences": 1535,
+      "avg_sentence_len": 26.29,
+      "chars": 291142
+    },
+    {
+      "issue": "34",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-34.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-34.txt",
+      "words": 45587,
+      "content_words": 25904,
+      "sentences": 1870,
+      "avg_sentence_len": 24.38,
+      "chars": 323722
+    },
+    {
+      "issue": "35",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-35.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-35.txt",
+      "words": 40054,
+      "content_words": 22648,
+      "sentences": 1572,
+      "avg_sentence_len": 25.48,
+      "chars": 281080
+    },
+    {
+      "issue": "36",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-36.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-36.txt",
+      "words": 41012,
+      "content_words": 23209,
+      "sentences": 1582,
+      "avg_sentence_len": 25.92,
+      "chars": 283210
+    },
+    {
+      "issue": "37",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-37.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-37.txt",
+      "words": 41159,
+      "content_words": 23479,
+      "sentences": 1575,
+      "avg_sentence_len": 26.13,
+      "chars": 287932
+    },
+    {
+      "issue": "38",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-38.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-38.txt",
+      "words": 46342,
+      "content_words": 26151,
+      "sentences": 1748,
+      "avg_sentence_len": 26.51,
+      "chars": 323666
+    },
+    {
+      "issue": "39",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-39.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-39.txt",
+      "words": 32691,
+      "content_words": 18060,
+      "sentences": 1250,
+      "avg_sentence_len": 26.15,
+      "chars": 221411
+    },
+    {
+      "issue": "40",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-40.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-40.txt",
+      "words": 43509,
+      "content_words": 24386,
+      "sentences": 1744,
+      "avg_sentence_len": 24.95,
+      "chars": 304772
+    },
+    {
+      "issue": "41",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-41.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-41.txt",
+      "words": 44252,
+      "content_words": 25330,
+      "sentences": 1797,
+      "avg_sentence_len": 24.63,
+      "chars": 311883
+    },
+    {
+      "issue": "42",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-42.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-42.txt",
+      "words": 46678,
+      "content_words": 26640,
+      "sentences": 1795,
+      "avg_sentence_len": 26.0,
+      "chars": 326885
+    },
+    {
+      "issue": "43",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-43.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-43.txt",
+      "words": 47695,
+      "content_words": 27222,
+      "sentences": 1779,
+      "avg_sentence_len": 26.81,
+      "chars": 334144
+    },
+    {
+      "issue": "44",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-44.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-44.txt",
+      "words": 40101,
+      "content_words": 22922,
+      "sentences": 1410,
+      "avg_sentence_len": 28.44,
+      "chars": 278516
+    },
+    {
+      "issue": "45",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-45.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-45.txt",
+      "words": 48428,
+      "content_words": 27470,
+      "sentences": 1733,
+      "avg_sentence_len": 27.94,
+      "chars": 339914
+    },
+    {
+      "issue": "46",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-46.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-46.txt",
+      "words": 48345,
+      "content_words": 27392,
+      "sentences": 1782,
+      "avg_sentence_len": 27.13,
+      "chars": 335074
+    },
+    {
+      "issue": "47",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-47.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-47.txt",
+      "words": 46677,
+      "content_words": 26405,
+      "sentences": 1736,
+      "avg_sentence_len": 26.89,
+      "chars": 323779
+    },
+    {
+      "issue": "48",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-48.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-48.txt",
+      "words": 44574,
+      "content_words": 25624,
+      "sentences": 1626,
+      "avg_sentence_len": 27.41,
+      "chars": 312512
+    },
+    {
+      "issue": "50",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-50.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-50.txt",
+      "words": 57377,
+      "content_words": 32369,
+      "sentences": 2175,
+      "avg_sentence_len": 26.38,
+      "chars": 401584
+    },
+    {
+      "issue": "51",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-51.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-51.txt",
+      "words": 52870,
+      "content_words": 29726,
+      "sentences": 1983,
+      "avg_sentence_len": 26.66,
+      "chars": 365298
+    },
+    {
+      "issue": "52",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-52.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-52.txt",
+      "words": 49744,
+      "content_words": 28296,
+      "sentences": 1776,
+      "avg_sentence_len": 28.01,
+      "chars": 346739
+    },
+    {
+      "issue": "53",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-53.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-53.txt",
+      "words": 48460,
+      "content_words": 27740,
+      "sentences": 1774,
+      "avg_sentence_len": 27.32,
+      "chars": 339598
+    },
+    {
+      "issue": "54",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-54.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-54.txt",
+      "words": 53506,
+      "content_words": 30053,
+      "sentences": 2016,
+      "avg_sentence_len": 26.54,
+      "chars": 371731
+    },
+    {
+      "issue": "55",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-55.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-55.txt",
+      "words": 52878,
+      "content_words": 29629,
+      "sentences": 1930,
+      "avg_sentence_len": 27.4,
+      "chars": 364073
+    },
+    {
+      "issue": "56",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-56.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-56.txt",
+      "words": 46179,
+      "content_words": 26079,
+      "sentences": 1573,
+      "avg_sentence_len": 29.36,
+      "chars": 319899
+    },
+    {
+      "issue": "57",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-57.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-57.txt",
+      "words": 54474,
+      "content_words": 31206,
+      "sentences": 2011,
+      "avg_sentence_len": 27.09,
+      "chars": 380814
+    },
+    {
+      "issue": "58",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-58.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-58.txt",
+      "words": 51918,
+      "content_words": 29443,
+      "sentences": 1872,
+      "avg_sentence_len": 27.73,
+      "chars": 360547
+    },
+    {
+      "issue": "59",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-59.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-59.txt",
+      "words": 34684,
+      "content_words": 19789,
+      "sentences": 1384,
+      "avg_sentence_len": 25.06,
+      "chars": 243426
+    },
+    {
+      "issue": "60",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-60.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-60.txt",
+      "words": 35956,
+      "content_words": 20041,
+      "sentences": 1316,
+      "avg_sentence_len": 27.32,
+      "chars": 247416
+    },
+    {
+      "issue": "61",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-61.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-61.txt",
+      "words": 49942,
+      "content_words": 28848,
+      "sentences": 2004,
+      "avg_sentence_len": 24.92,
+      "chars": 351724
+    },
+    {
+      "issue": "62",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-62.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-62.txt",
+      "words": 39921,
+      "content_words": 22250,
+      "sentences": 1526,
+      "avg_sentence_len": 26.16,
+      "chars": 277800
+    },
+    {
+      "issue": "63",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-63.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-63.txt",
+      "words": 47366,
+      "content_words": 26630,
+      "sentences": 1875,
+      "avg_sentence_len": 25.26,
+      "chars": 326740
+    },
+    {
+      "issue": "64",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-64.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-64.txt",
+      "words": 63898,
+      "content_words": 36079,
+      "sentences": 2419,
+      "avg_sentence_len": 26.42,
+      "chars": 447293
+    },
+    {
+      "issue": "65",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-65.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-65.txt",
+      "words": 54718,
+      "content_words": 30944,
+      "sentences": 2178,
+      "avg_sentence_len": 25.12,
+      "chars": 380763
+    },
+    {
+      "issue": "66",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-66.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-66.txt",
+      "words": 59954,
+      "content_words": 34555,
+      "sentences": 2170,
+      "avg_sentence_len": 27.63,
+      "chars": 419428
+    },
+    {
+      "issue": "67",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-67.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-67.txt",
+      "words": 63286,
+      "content_words": 35974,
+      "sentences": 2329,
+      "avg_sentence_len": 27.17,
+      "chars": 439614
+    },
+    {
+      "issue": "68",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-68.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-68.txt",
+      "words": 61017,
+      "content_words": 34837,
+      "sentences": 2261,
+      "avg_sentence_len": 26.99,
+      "chars": 425392
+    },
+    {
+      "issue": "69",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-69.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-69.txt",
+      "words": 55696,
+      "content_words": 31675,
+      "sentences": 2049,
+      "avg_sentence_len": 27.18,
+      "chars": 388727
+    },
+    {
+      "issue": "70",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-70.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-70.txt",
+      "words": 63841,
+      "content_words": 35707,
+      "sentences": 2491,
+      "avg_sentence_len": 25.63,
+      "chars": 439880
+    },
+    {
+      "issue": "71",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-71.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-71.txt",
+      "words": 55524,
+      "content_words": 31361,
+      "sentences": 2228,
+      "avg_sentence_len": 24.92,
+      "chars": 385511
+    },
+    {
+      "issue": "72",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-72.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-72.txt",
+      "words": 45337,
+      "content_words": 24855,
+      "sentences": 1806,
+      "avg_sentence_len": 25.1,
+      "chars": 307149
+    },
+    {
+      "issue": "73",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-73.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-73.txt",
+      "words": 56631,
+      "content_words": 31535,
+      "sentences": 2241,
+      "avg_sentence_len": 25.27,
+      "chars": 388640
+    },
+    {
+      "issue": "74",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-74.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-74.txt",
+      "words": 58655,
+      "content_words": 32859,
+      "sentences": 2312,
+      "avg_sentence_len": 25.37,
+      "chars": 408757
+    },
+    {
+      "issue": "75",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-75.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-75.txt",
+      "words": 51847,
+      "content_words": 28682,
+      "sentences": 1875,
+      "avg_sentence_len": 27.65,
+      "chars": 353689
+    },
+    {
+      "issue": "76",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-76.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-76.txt",
+      "words": 57305,
+      "content_words": 32046,
+      "sentences": 2325,
+      "avg_sentence_len": 24.65,
+      "chars": 394244
+    },
+    {
+      "issue": "77",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-77.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-77.txt",
+      "words": 59170,
+      "content_words": 32663,
+      "sentences": 2324,
+      "avg_sentence_len": 25.46,
+      "chars": 409027
+    },
+    {
+      "issue": "78",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-78.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-78.txt",
+      "words": 51239,
+      "content_words": 28104,
+      "sentences": 2067,
+      "avg_sentence_len": 24.79,
+      "chars": 350282
+    },
+    {
+      "issue": "79",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-79.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-79.txt",
+      "words": 59244,
+      "content_words": 33322,
+      "sentences": 2338,
+      "avg_sentence_len": 25.34,
+      "chars": 407428
+    },
+    {
+      "issue": "80",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-80.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-80.txt",
+      "words": 59427,
+      "content_words": 33040,
+      "sentences": 2257,
+      "avg_sentence_len": 26.33,
+      "chars": 408176
+    },
+    {
+      "issue": "81",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-81.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-81.txt",
+      "words": 51502,
+      "content_words": 28602,
+      "sentences": 2344,
+      "avg_sentence_len": 21.97,
+      "chars": 350356
+    },
+    {
+      "issue": "82",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-82.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-82.txt",
+      "words": 62033,
+      "content_words": 33948,
+      "sentences": 2500,
+      "avg_sentence_len": 24.81,
+      "chars": 428158
+    },
+    {
+      "issue": "83",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-83.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-83.txt",
+      "words": 60950,
+      "content_words": 34383,
+      "sentences": 2602,
+      "avg_sentence_len": 23.42,
+      "chars": 420865
+    },
+    {
+      "issue": "84",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-84.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-84.txt",
+      "words": 60331,
+      "content_words": 33611,
+      "sentences": 2670,
+      "avg_sentence_len": 22.6,
+      "chars": 417455
+    },
+    {
+      "issue": "85",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-85.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-85.txt",
+      "words": 59901,
+      "content_words": 33695,
+      "sentences": 2300,
+      "avg_sentence_len": 26.04,
+      "chars": 417216
+    },
+    {
+      "issue": "86",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-86.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-86.txt",
+      "words": 61642,
+      "content_words": 34145,
+      "sentences": 2613,
+      "avg_sentence_len": 23.59,
+      "chars": 422491
+    },
+    {
+      "issue": "87",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-87.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-87.txt",
+      "words": 63086,
+      "content_words": 34808,
+      "sentences": 2664,
+      "avg_sentence_len": 23.68,
+      "chars": 436278
+    },
+    {
+      "issue": "88",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-88.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-88.txt",
+      "words": 63069,
+      "content_words": 35262,
+      "sentences": 2398,
+      "avg_sentence_len": 26.3,
+      "chars": 436771
+    },
+    {
+      "issue": "89",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-89.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-89.txt",
+      "words": 58759,
+      "content_words": 32913,
+      "sentences": 2599,
+      "avg_sentence_len": 22.61,
+      "chars": 407520
+    },
+    {
+      "issue": "90",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-90.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-90.txt",
+      "words": 60544,
+      "content_words": 33313,
+      "sentences": 2483,
+      "avg_sentence_len": 24.38,
+      "chars": 414027
+    },
+    {
+      "issue": "91",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-91.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-91.txt",
+      "words": 59449,
+      "content_words": 33372,
+      "sentences": 2573,
+      "avg_sentence_len": 23.1,
+      "chars": 411173
+    },
+    {
+      "issue": "92",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-92.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-92.txt",
+      "words": 64112,
+      "content_words": 35633,
+      "sentences": 2826,
+      "avg_sentence_len": 22.69,
+      "chars": 442872
+    },
+    {
+      "issue": "93",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-93.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-93.txt",
+      "words": 62187,
+      "content_words": 34430,
+      "sentences": 2632,
+      "avg_sentence_len": 23.63,
+      "chars": 430662
+    },
+    {
+      "issue": "94",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-94.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-94.txt",
+      "words": 63834,
+      "content_words": 35645,
+      "sentences": 2744,
+      "avg_sentence_len": 23.26,
+      "chars": 441727
+    },
+    {
+      "issue": "95",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-95.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-95.txt",
+      "words": 65237,
+      "content_words": 36551,
+      "sentences": 2837,
+      "avg_sentence_len": 23.0,
+      "chars": 450667
+    },
+    {
+      "issue": "96",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-96.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-96.txt",
+      "words": 60417,
+      "content_words": 34136,
+      "sentences": 2541,
+      "avg_sentence_len": 23.78,
+      "chars": 422499
+    },
+    {
+      "issue": "97",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-97.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-97.txt",
+      "words": 64813,
+      "content_words": 36983,
+      "sentences": 2821,
+      "avg_sentence_len": 22.98,
+      "chars": 452360
+    },
+    {
+      "issue": "98",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-98.pdf",
+      "txt": "/Users/orsoneveraert/Documents/art-meme/analysis/texts/ART-MEME-98.txt",
+      "words": 62205,
+      "content_words": 35094,
+      "sentences": 2998,
+      "avg_sentence_len": 20.75,
+      "chars": 429242
+    }
+  ],
+  "excluded_documents": [
+    {
+      "issue": "1_",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-1_.pdf",
+      "words": 0
+    },
+    {
+      "issue": "2",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-2.pdf",
+      "words": 0
+    },
+    {
+      "issue": "3",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-3.pdf",
+      "words": 0
+    },
+    {
+      "issue": "4",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-4.pdf",
+      "words": 0
+    },
+    {
+      "issue": "5",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-5.pdf",
+      "words": 0
+    },
+    {
+      "issue": "6",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-6.pdf",
+      "words": 0
+    },
+    {
+      "issue": "7",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-7.pdf",
+      "words": 0
+    },
+    {
+      "issue": "8",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-8.pdf",
+      "words": 0
+    },
+    {
+      "issue": "9",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-9.pdf",
+      "words": 0
+    },
+    {
+      "issue": "10",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-10.pdf",
+      "words": 0
+    },
+    {
+      "issue": "11",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-11.pdf",
+      "words": 0
+    },
+    {
+      "issue": "12",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-12.pdf",
+      "words": 0
+    },
+    {
+      "issue": "13",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-13.pdf",
+      "words": 0
+    },
+    {
+      "issue": "14",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-14.pdf",
+      "words": 0
+    },
+    {
+      "issue": "15",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-15.pdf",
+      "words": 0
+    },
+    {
+      "issue": "16",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-16.pdf",
+      "words": 0
+    },
+    {
+      "issue": "17",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-17.pdf",
+      "words": 0
+    },
+    {
+      "issue": "18",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-18.pdf",
+      "words": 0
+    },
+    {
+      "issue": "19",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-19.pdf",
+      "words": 0
+    },
+    {
+      "issue": "20",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-20.pdf",
+      "words": 0
+    },
+    {
+      "issue": "21",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-21.pdf",
+      "words": 0
+    },
+    {
+      "issue": "22",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-22.pdf",
+      "words": 0
+    },
+    {
+      "issue": "23",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-23.pdf",
+      "words": 0
+    },
+    {
+      "issue": "24",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-24.pdf",
+      "words": 0
+    },
+    {
+      "issue": "25",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-25.pdf",
+      "words": 0
+    },
+    {
+      "issue": "26",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-26.pdf",
+      "words": 0
+    },
+    {
+      "issue": "27",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-27.pdf",
+      "words": 0
+    },
+    {
+      "issue": "28",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-28.pdf",
+      "words": 0
+    },
+    {
+      "issue": "29",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-29.pdf",
+      "words": 0
+    },
+    {
+      "issue": "30",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-30.pdf",
+      "words": 0
+    },
+    {
+      "issue": "31",
+      "pdf": "/Users/orsoneveraert/Documents/art-meme/data/art-meme-pdfs/ART-MEME-31.pdf",
+      "words": 0
+    }
+  ]
+}
