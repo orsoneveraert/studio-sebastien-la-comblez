@@ -375,6 +375,14 @@ body.dev-open .hero-dev-tools {
   white-space: nowrap;
 }
 
+.footer-col a[href^="tel"],
+.footer-col a[x-apple-data-detectors],
+.footer-col .x-apple-data-detectors {
+  color: inherit !important;
+  text-decoration: none !important;
+  font: inherit !important;
+}
+
 .fade-in {
   opacity: 0;
   animation: hero-fade 900ms cubic-bezier(0.2, 0.65, 0.2, 1) 220ms forwards;
