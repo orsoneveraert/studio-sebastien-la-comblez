@@ -413,6 +413,14 @@ body.dev-open .hero-dev-tools {
     grid-template-columns: 1fr;
   }
 
+  .content-grid > .content-copy {
+    order: 1;
+  }
+
+  .content-grid > .content-media {
+    order: 2;
+  }
+
   .content-copy,
   .content-media {
     min-height: auto;
