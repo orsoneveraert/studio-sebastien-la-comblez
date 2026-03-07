@@ -18,7 +18,7 @@
   const openSite = (card, { pushHash = true } = {}) => {
     const siteId = card.dataset.siteId || "";
     const siteUrl = card.dataset.siteUrl || "";
-    const siteTitle = card.querySelector(".site-card__title")?.textContent?.trim() || "Version";
+    const siteTitle = card.dataset.viewerLabel || card.querySelector(".site-card__title")?.textContent?.trim() || "V1";
     if (!siteUrl) return;
 
     frame.src = siteUrl;
