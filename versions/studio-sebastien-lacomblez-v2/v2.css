@@ -1,0 +1,258 @@
+:root {
+  --v2-bg: #f3f2ee;
+  --v2-paper: #f8f7f3;
+  --v2-card: #fcfbf8;
+  --v2-text: #181714;
+  --v2-soft: #6f6a61;
+  --v2-border: rgba(24, 23, 20, 0.1);
+  --v2-shadow: 0 18px 50px rgba(25, 23, 20, 0.08);
+  --v2-mono: "Space Mono", monospace;
+  --v2-sans: "DM Sans", sans-serif;
+  --v2-serif: "Cinzel", serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--v2-bg);
+  color: var(--v2-text);
+  font-family: var(--v2-sans);
+}
+
+img,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+.v2-hero {
+  position: relative;
+  min-height: 100vh;
+  overflow: hidden;
+  background: #101010;
+}
+
+.v2-hero__video,
+.v2-hero__shade {
+  position: absolute;
+  inset: 0;
+}
+
+.v2-hero__video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.v2-hero__shade {
+  background:
+    linear-gradient(180deg, rgba(0, 0, 0, 0.16), rgba(0, 0, 0, 0.34)),
+    radial-gradient(circle at 50% 58%, rgba(255, 255, 255, 0.06), transparent 32%);
+}
+
+.v2-hero__content {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+  padding: 2rem 1.5rem 4rem;
+  text-align: center;
+  color: #f5f3ee;
+}
+
+.v2-hero__eyebrow,
+.v2-hero__subtitle {
+  margin: 0;
+  font-family: var(--v2-sans);
+}
+
+.v2-hero__eyebrow {
+  margin-bottom: 1rem;
+  font-size: 0.78rem;
+  line-height: 1.2;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.v2-hero__title {
+  margin: 0;
+  max-width: 12ch;
+  font-family: var(--v2-serif);
+  font-size: clamp(3.4rem, 11vw, 8rem);
+  line-height: 0.92;
+  font-weight: 900;
+  font-variant-caps: small-caps;
+  letter-spacing: 0.02em;
+  text-wrap: balance;
+}
+
+.v2-hero__subtitle {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.v2-scroll {
+  position: absolute;
+  left: 50%;
+  bottom: 1rem;
+  z-index: 1;
+  width: 42px;
+  height: 42px;
+  margin-left: -21px;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.v2-scroll img {
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+}
+
+.v2-editorial {
+  padding: 1.4rem 1rem 4rem;
+}
+
+.v2-editorial__header {
+  display: grid;
+  gap: 0.8rem;
+  max-width: 26rem;
+  margin: 0 auto 1.4rem;
+  text-align: center;
+}
+
+.v2-editorial__kicker {
+  margin: 0;
+  font-family: var(--v2-mono);
+  font-size: 0.72rem;
+  line-height: 1.3;
+  color: var(--v2-soft);
+  text-transform: uppercase;
+}
+
+.v2-editorial__intro {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.v2-stack {
+  display: grid;
+  gap: 1.15rem;
+}
+
+.v2-module {
+  display: grid;
+  grid-template-columns: 3.75rem minmax(0, 23rem);
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.v2-module__index {
+  margin: 0;
+  padding-top: 0.5rem;
+  font-family: var(--v2-mono);
+  font-size: 0.64rem;
+  line-height: 1.4;
+  color: var(--v2-soft);
+  text-transform: uppercase;
+}
+
+.v2-module__panel {
+  background: var(--v2-card);
+  border: 1px solid var(--v2-border);
+  box-shadow: var(--v2-shadow);
+}
+
+.v2-module__panel--text,
+.v2-module__panel--contact {
+  padding: 1.1rem 1.05rem;
+}
+
+.v2-module__panel--text p,
+.v2-contact__line,
+.v2-contact__label {
+  margin: 0;
+}
+
+.v2-module__panel--text p {
+  font-size: clamp(1.12rem, 2vw, 1.45rem);
+  line-height: 1.3;
+  letter-spacing: -0.02em;
+}
+
+.v2-module__panel--image {
+  padding: 0.75rem;
+}
+
+.v2-module__panel--image img {
+  width: 100%;
+  aspect-ratio: 0.76;
+  object-fit: cover;
+}
+
+.v2-module__panel--image figcaption {
+  margin-top: 0.55rem;
+  font-family: var(--v2-mono);
+  font-size: 0.7rem;
+  line-height: 1.4;
+  color: var(--v2-soft);
+  text-transform: uppercase;
+}
+
+.v2-contact__label {
+  margin-bottom: 0.5rem;
+  font-family: var(--v2-mono);
+  font-size: 0.7rem;
+  line-height: 1.3;
+  color: var(--v2-soft);
+  text-transform: uppercase;
+}
+
+.v2-contact__line {
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+@media (max-width: 740px) {
+  .v2-editorial {
+    padding-inline: 0.8rem;
+  }
+
+  .v2-module {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
+  }
+
+  .v2-module__index {
+    padding-top: 0;
+    padding-left: 0.15rem;
+  }
+
+  .v2-hero__title {
+    max-width: 10ch;
+    font-size: clamp(2.7rem, 18vw, 4.9rem);
+  }
+
+  .v2-hero__subtitle {
+    max-width: 16rem;
+    font-size: 0.84rem;
+  }
+}
