@@ -338,6 +338,10 @@
       event.preventDefault();
       toggleDevTools();
     }
+
+    if (event.key === "Escape" && window.parent !== window) {
+      window.parent.postMessage({ type: "close-site-viewer" }, window.location.origin);
+    }
   });
 
   if (heroVideo) {

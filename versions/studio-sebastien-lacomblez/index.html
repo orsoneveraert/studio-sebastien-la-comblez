@@ -1,0 +1,213 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <title>Studio Sebastien Lacomblez</title>
+    <meta
+      name="description"
+      content="Studio Sebastien Lacomblez — landscape practice between art and ecological intelligence."
+    />
+    <link rel="icon" type="image/png" href="../../assets/icons/favicon-sl.png" />
+    <link
+      rel="preload"
+      href="../../assets/fonts/variants/SBOG_SangBleuOGSerif-Light.ttf"
+      as="font"
+      type="font/ttf"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="../../assets/fonts/variants/SBOG_SangBleuOGSerif-Regular.ttf"
+      as="font"
+      type="font/ttf"
+      crossorigin
+    />
+    <link rel="stylesheet" href="../../styles.css" />
+  </head>
+  <body>
+    <main>
+      <section class="hero-stage" aria-label="Hero stage">
+        <section class="hero" aria-label="Hero">
+          <video
+            class="hero-video"
+            autoplay
+            muted
+            loop
+            playsinline
+            webkit-playsinline
+            preload="metadata"
+            aria-hidden="true"
+          >
+            <source src="../../assets/video/hero-boomerang.mp4" type="video/mp4" />
+          </video>
+          <div class="hero-overlay" aria-hidden="true"></div>
+          <div class="hero-content fade-in">
+            <h1 class="hero-title">
+              <span>studio</span>
+              <span>sebastien</span>
+              <span>lacomblez</span>
+            </h1>
+          </div>
+          <button class="scroll-cue" type="button" aria-label="Scroll to content">
+            <img
+              class="scroll-cue__logo"
+              src="../../assets/icons/hero-scroll-logo.png"
+              alt=""
+              aria-hidden="true"
+              width="50"
+              height="50"
+            />
+          </button>
+
+          <aside class="hero-dev-tools" aria-label="Hero developer tools">
+            <div class="hero-dev-tools__title">Title Weight</div>
+            <div class="hero-dev-tools__row">
+              <input
+                id="hero-title-weight"
+                class="hero-dev-tools__slider"
+                type="range"
+                min="200"
+                max="700"
+                step="1"
+                value="400"
+                aria-label="Hero title weight"
+              />
+              <output id="hero-title-weight-value" for="hero-title-weight">400</output>
+            </div>
+            <div class="hero-dev-tools__title">Font Variant</div>
+            <div class="hero-dev-tools__row hero-dev-tools__row--font">
+              <button id="font-variant-prev" class="hero-dev-tools__btn" type="button" aria-label="Previous font variant">&lt;</button>
+              <div id="font-variant-label" class="hero-dev-tools__font-label">Default (SangBleuVersailles)</div>
+              <button id="font-variant-next" class="hero-dev-tools__btn" type="button" aria-label="Next font variant">&gt;</button>
+              <button id="font-variant-favorite" class="hero-dev-tools__btn hero-dev-tools__btn--star" type="button" aria-label="Toggle favorite">☆</button>
+            </div>
+            <div id="font-favorites" class="hero-dev-tools__favorites" aria-label="Favorite fonts">
+              <span class="hero-dev-tools__favorites-empty">No favorites yet</span>
+            </div>
+          </aside>
+        </section>
+        <section class="content-block" id="content">
+          <div class="content-grid">
+            <div class="content-copy">
+              <p>
+                Le jardin n’est jamais un décor figé. Il devient une forme vivante, attentive aux sols, à la lumière, à
+                l’eau, aux usages et aux rythmes de transformation.
+              </p>
+              <p>
+                Du macro au micro, le projet articule art, sciences naturelles et intelligence des écosystèmes pour
+                composer des trames végétales durables, singulières, et pleinement habitées.
+              </p>
+            </div>
+            <figure class="content-media">
+              <img
+                src="../../assets/photos/landscape-05.jpg"
+                alt="Landscape still"
+                loading="lazy"
+                width="896"
+                height="896"
+              />
+            </figure>
+          </div>
+        </section>
+      </section>
+
+      <section class="content-block reveal">
+        <div class="content-grid">
+          <figure class="content-media">
+            <img
+              src="../../assets/photos/landscape-11.jpg"
+              alt="Garden landscape detail"
+              loading="lazy"
+              width="816"
+              height="816"
+            />
+          </figure>
+          <div class="content-copy">
+            <p>
+              Chaque site s’aborde comme un écosystème à révéler: structure du sol, trame minérale, présence de l’eau
+              et dynamique végétale se répondent dans une même lecture.
+            </p>
+            <p>
+              Le dessin du paysage accompagne les usages sans les figer, afin que le lieu gagne en justesse, en
+              profondeur et en continuité au fil des saisons.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section class="content-block reveal">
+        <div class="content-grid">
+          <div class="content-copy">
+            <p>
+              L’approche unit exigence artistique et précision technique, du geste initial à la stratégie de long
+              terme, pour construire des paysages qui restent vivants dans le temps.
+            </p>
+            <p>
+              Entre vision d’ensemble et soin du détail, le projet compose une signature singulière, capable
+              d’évoluer avec le climat, les usages et la mémoire du lieu.
+            </p>
+          </div>
+          <figure class="content-media">
+            <img
+              src="../../assets/photos/portrait-03.jpg"
+              alt="Planted composition detail"
+              loading="lazy"
+              width="1080"
+              height="1440"
+            />
+          </figure>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer reveal">
+      <div class="footer-inner">
+        <section class="footer-col" aria-label="Clients">
+          <h2>Clients:</h2>
+          <ul>
+            <li>Ville de Charleroi</li>
+            <li>Sambrinvest</li>
+            <li>Catch</li>
+            <li>CITW+</li>
+            <li>Eden</li>
+          </ul>
+        </section>
+
+        <section class="footer-col" aria-label="Collaborateur">
+          <h2>Collaborateur:</h2>
+          <ul>
+            <li>Lorem ipsum dolor</li>
+            <li>Sit amet consectetur</li>
+            <li>Adipiscing elit sed</li>
+            <li>Do eiusmod tempor</li>
+            <li>Incididunt ut labore</li>
+          </ul>
+        </section>
+
+        <section class="footer-col" aria-label="Pays">
+          <h2>Pays:</h2>
+          <ul>
+            <li>Belgique</li>
+            <li>France</li>
+            <li>Pays-bas</li>
+          </ul>
+        </section>
+
+        <section class="footer-col" aria-label="Contact">
+          <h2>Contact:</h2>
+          <ul>
+            <li>Studio Sebastien Lacomblez</li>
+            <li>sebastienlacomblez.art</li>
+            <li>+32 000 00 00 00</li>
+          </ul>
+        </section>
+      </div>
+    </footer>
+
+    <button class="dev-corner" type="button" aria-expanded="false" aria-controls="hero-title-weight">dev</button>
+
+    <script src="../../script.js"></script>
+  </body>
+</html>
